@@ -1,10 +1,4 @@
-/*Entrada:
- * Saída:
- * Processo:
- * Fluxograma:
- * Testes:
- * Código-fonte:
- */
+
 
 import java.util.Scanner;
 
