@@ -15,7 +15,7 @@ public class Exe03 {
         } else if (valor2>valor1) {
             System.out.print(valor2 + " é maior que " + valor1);
         } else if (valor1 == valor2) {
-            System.out.print(valor1 + " é igual a "+ valor2);
+            System.out.print(valor1 + " é igual a " + valor2);
         }
         
         s.close();
