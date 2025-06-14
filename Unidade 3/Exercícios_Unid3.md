@@ -92,9 +92,7 @@ Uma pessoa foi até uma casa de câmbio trocar dólares por reais. Para isto ela
 
 ## Uni3Exe09.java
 
-Descreva um programa que calcule o volume de uma lata de óleo. Fórmula:  
-
-  ![\normalsize&space;volume\:=\:\Pi\:*\:raio^2\:*\:altura](https://latex.codecogs.com/svg.latex?\normalsize&space;volume=\Pi*raio^2*altura)  
+Descreva um programa que calcule o volume de uma lata de óleo
 
 Quantas casas decimais devo usar para o número Pi?  
 Veja [Quora curiosidade](<https://pt.quora.com/Qual-o-fato-cient%C3%ADfico-incr%C3%ADvel-que-voc%C3%AA-conhece/answer/Ericles-Lima?ch=17&oid=1477743646776076&share=22307f3d&srid=Es9Sd&target_type=answer>)  
@@ -111,9 +109,6 @@ Veja [Quora curiosidade](<https://pt.quora.com/Qual-o-fato-cient%C3%ADfico-incr%
 ## Uni3Exe10.java
 
 Descreva um programa que leia o comprimento dos catetos de um triângulo retângulo e calcule o comprimento da hipotenusa.  
-Fórmula:  
-
-  ![\normalsize&space;hipotenusa^2=cateto1^2+cateto^2](https://latex.codecogs.com/svg.latex?\normalsize&space;hipotenusa^2=cateto1^2+cateto^2)  
 
 | Exemplos de entrada | Exemplos de saída |
 | -------- | -------- |
