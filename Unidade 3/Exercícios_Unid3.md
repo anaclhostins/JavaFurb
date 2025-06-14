@@ -1,14 +1,3 @@
-# Unidade 3: Introdução - Lista de Exercícios - atividadeAula
-
-Implemente uma classe com o método main para cada um dos seguintes exercícios utilizando o VSCode. Faça a análise do problema identificando as entradas, saídas e testes. Utilize somente os comandos que você aprendeu na disciplina até o momento para a resolução das atividades.  
-
-Utilize o nome do arquivo Java e da Classe de acordo com o indicado no inicio de cada enunciado.  
-
-**ATENÇÃO** as atividades devem ser postadas no AVA3 até dentro do prazo estabelecido. No caso podem só postar os arquivos ```.java``` ou a pasta inteira do projeto. Lembrem que podem zipar os arquivos para facilitar o envio para o AVA3. E se quiserem, após postarem podem entrar novamente no AVA3 e baixarem os arquivos que postaram para confirmar se a postagem foi feita certa.
-Mas reforço, os aquivos devem ser postados. Não será aceito o link para algum lugar na "nuvem" (tipo OneDrive) que tenham os arquivos.  
-
-----------
-
 ## Uni3Exe01.java
 
 Uma imobiliária vende apenas terrenos retangulares. Faça um programa para ler as dimensões de um terreno e depois exibir a área do terreno.  
