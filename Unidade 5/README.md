@@ -38,8 +38,6 @@ Os exercícios práticos envolvem a aplicação dos laços `for`, `while` e `do-
 
 - Todos os exemplos foram desenvolvidos para rodar no terminal, usando entrada e saída padrão (`Scanner`, `System.out.println`).
 - O código segue a sintaxe oficial da linguagem Java e boas práticas de programação.
-- No `do-while`, o ponto e vírgula (`;`) após a condição é obrigatório.
-
 ---
 
 📌 *Disciplina: Introdução à Programação – Ciência da Computação (FURB)*  
